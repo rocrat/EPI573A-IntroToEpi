@@ -1,0 +1,37 @@
+---
+title: "Questionaire Critique"
+author: "Dominic LaRoche"
+date: "October 9, 2015"
+output: word_document
+---
+
+*a. On average, how long did it take to complete the questionnaire?*
+About 5 minutes
+
+*b. Was it different for men than it was for women respondents?*
+Yes.
+
+*c. Were there questions that were misleading or ambiguous?*
+Yes, question 1.13 was worded in a way that one could say that they did not gain more than ten pounds in the past year if they did not diet.
+
+*d. Were there any questions that had inappropriate response categories?*
+Yes, I think the freckles question was a bit odd in the response categories.
+
+*e. How difficult was it to read the questionnaire and follow the skip patterns?*
+Not difficult.
+
+*f. Do you have any suggestions for wording of existing questions or other questions to be included?*
+Maybe someone should estimate the number of freckles instead of giveing a category?  This would also be difficult so it might be better to have people self-identify as having freckles or not.  Question 1.13 should be re-worded to avoid the ambiguity about dieting.  This could be acheived by dividing the question into 2 parts: 1) Have you gained more than 10 pounds in the last 6 months, and 2) Have you lost more than 10 pounds int he last 6 months without dieting.
+
+*g. What is the study design?*
+This is a cross-sectional study
+
+*h. What are the potential problems with this design?*
+There may be problems with the accuracy of self reporting when exposures may have happened a long time in the past.  Also, many patients are not entirely sure what tests they have had done and when.
+
+*i. What alternative strategies for recruiting subjects would you consider?*
+Perhaps using electronnic medical records would help, or if the researchers are interested in specific exposures, using a cohort design and enrolling participants with known exposure. I.e. one could enroll people contacting a smoking cessation hotline (this would bias the population obviously but this may not be a problem depending on the question being asked.)
+
+*j. Given the questions included in the questionnaire and the study design, what are some research questions that can be addressed by this research?*
+The survey asks questions about exercise, sun exposure, and smoking.  These all appear to be different kinds of exposures that could be related to the various health outcomes also solicited such as heart disease and cancer.  One could also look at interaction effects between any of the exposures and particular outcomes.
+
