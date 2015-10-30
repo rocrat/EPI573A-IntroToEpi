@@ -55,3 +55,7 @@ Finally, performing an intention-to-treat analysis could potentially bias the re
 14. The authors claim that both Tai Chi and Silver Sneakers treatment groups experienced larger gains in aerobic endurance as compared with the control (5.9 more steps for Tai Chi, 16.3 more steps for Silver Sneakers, and 4.4 more steps for control).  Additionally, the authors claim that Tai Chi lead to fewer falls than the other treatment groups.
 
 15. The authors claim to have completed a sample size calculation and claim that the study may have been underpowered, although they do not provide any details about the sample size calculation.  It is difficult to determine whether the study was underpowered because I don't know if the observed effect sizes were clinically meaningful.  
+
+16. I think the design of the study was a strength.  Including a exercise and attentional control were both strengths of the design and the outcome measures were appropriate.  The data analysis was a major weakness becuase some of the methods were inappropriate and the results were difficult to interpret as a result.  The results table included standard deviations where it should have reported means and standard errors from the model, this makes it difficult to compare treatment groups.  Also, a plot showing the time by treatment interacton for the two significant results would have aided interpretation.
+
+17. 
