@@ -1,0 +1,34 @@
+---
+title: "Paper Critique - Tai Chi"
+author: "Dominic LaRoche"
+date: "October 29, 2015"
+output: word_document
+---
+
+1. The purpose of this research is to determine whether Tai Chi improves physical function and quality of life as compared to usual care and an exercise control. The authors hypothesize that Tai Chi exercise will lead to fewer falls, improved physical function, and better quality of life as compared to usual care or an established strength and range of movement exercise program for older adults (Silver Sneakers).
+
+2. The authors claim the study design is a 3-group, single blind, randomized controlled trial.
+
+3. I agree that the study is a 3-group , single blind, randomized controlled trial.
+
+4. This was a randomized trial because allocation to one of three groups was random.  This was a single blind randomized trial because the research staff assessing the outcome measures were blinded to group assignment.  This is a controlled trial because and there was a control group of usual care (two controls if you count the exercise control).
+
+5. Yes, this is hypothesis driven research  so an analytic design is necessary.  Moreover, a randomized controlled trial is appropriate because all three treatment groups are ethical, i.e. there is no reasonable expectation of undue harm to any of the participants, and the outcome measures can all be obtained over a relatively short time scale.
+
+6. The target population is stroke survivors older than 50 with at least 3 months since a stroke.
+
+7. The inclusion criteria:
+    - Stroke survivor
+    - 50 years of age or older
+    - 3 months post-stroke
+    - living in the greater Tucson area
+  
+  The exclusion criteria:
+  
+    - No disability
+    - Severe disability (requiring constant nursing care)
+    - Serious medical condition that would interfere with study participation (e.g. cancer)
+
+8. Subjects were recruited from the community through a combination of media advertisements including radio, newspapes and brochures at community centers, outpatient rehabilitation centers, and physician offices.
+
+9. There were 2 primary outcomes in the study: physical function and quality of life.  The first outcome, physical function, was assessed in two ways.  The Short Physical Performance Battery (SPPB) was used to asses overall physical function such as balance, and lower body strength.  The investigators also collected information on patient-reported falls and near falls.  A fall was defined as an event in which a subject ended up in the ground when they did not expect to.  A near fall was defined as an event in which a subject recovered their balance without falling.
