@@ -31,4 +31,21 @@ output: word_document
 
 8. Subjects were recruited from the community through a combination of media advertisements including radio, newspapes and brochures at community centers, outpatient rehabilitation centers, and physician offices.
 
-9. There were 2 primary outcomes in the study: physical function and quality of life.  The first outcome, physical function, was assessed in two ways.  The Short Physical Performance Battery (SPPB) was used to asses overall physical function such as balance, and lower body strength.  The investigators also collected information on patient-reported falls and near falls.  A fall was defined as an event in which a subject ended up in the ground when they did not expect to.  A near fall was defined as an event in which a subject recovered their balance without falling.
+9. There were 2 primary outcomes in the study: physical function and quality of life.  The first outcome, physical function, was assessed in two ways.  The Short Physical Performance Battery (SPPB) was used to asses overall physical function such as balance, and lower body strength.  The investigators also collected information on patient-reported falls and near falls.  A fall was defined as an event in which a subject ended up in the ground when they did not expect to.  A near fall was defined as an event in which a subject recovered their balance without falling.  
+Quality of life was broken into 3 components: 1) general quality of life as assessed by the Medical Outcomes Study 36-Item Short-Form Health Survey (SF-36); 2) depression was assessed with the Center for Epidemilogical Studies Depression Scale (CES-D); and 3) sleep quality was assessed by the Pittsburgh Sleep Quality Index (PSQI).
+
+10. The three treatment groups represent the different exposures.  The Tai Chi group was exposed to a 1 hour Yeng-style 24-posture short-form Tai Chi class developed by Fei 3 times per week for 12 weeks. The Silver Sneakers (excercise control) group was exposed to a 1 hour fitness program for older adults 3 times per week for 12 weeks.  The usual-care control group was exposed to written materials and resources describing community-based physical activity programs suitable for older adults and a weekly phone call to inquire of their health status and provide personal attention (attentional control).
+
+11. There are several sources of potential bias in this study.  Since the intervention of interest requires physical activity it is possible that only those participants which are relatively healthy will able to complete the intervention throughout the study.  If unhealthy participants in the exercise-based interventions drop out of the study then the remaining participants will be biased towards being healthy.  This would lead to inflated mesaures of physical function and quality of life as compared to the control which would be less likely to lose the participants in poor health.  Ultimately this would bias the results awway from the null and towards finding a significant difference.
+
+Another potential source of bias is the lack of blinding of the participants.  
+
+increased Attention in treatments
+
+Allocation bias
+
+Potentially in the measurements
+
+A
+
+
