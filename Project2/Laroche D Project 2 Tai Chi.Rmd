@@ -38,14 +38,20 @@ Quality of life was broken into 3 components: 1) general quality of life as asse
 
 11. There are several sources of potential bias in this study.  Since the intervention of interest requires physical activity it is possible that only those participants which are relatively healthy will able to complete the intervention throughout the study.  If unhealthy participants in the exercise-based interventions drop out of the study then the remaining participants will be biased towards being healthy.  This would lead to inflated mesaures of physical function and quality of life as compared to the control which would be less likely to lose the participants in poor health.  Ultimately this would bias the results awway from the null and towards finding a significant difference.
 
-Another potential source of bias is the lack of blinding of the participants.  
+Another potential source of bias is the lack of blinding of the participants. Although impossible to avoid, not having participants blinded to their treatment group introduces the potential for a placebo effect for the two active interventions.  This is especially true of difficult to measure outcomes like depression; participants may feel less depressed simply because they feel luck to have been allocated to the active intervention.  This would bias the results away from the null. 
 
-increased Attention in treatments
+Both of the active treatments involved much more time (3 hours per week compared to 1 phone call per week) interacting with a care provider.  This interaction by itself could potentially improve the qaulity of life for participants without the need for any actual exercise or Tai Chi.  
 
-Allocation bias
+Another source of potential bias could have arisen in the allocation of individuals to treatment groups.  Although the allocation was random, with small sample sizes unbalanced allocation can arise between treatment groups.  In this study we see a higher proportion of white, married, college educated participants.  All of these factors might be reasonably correlated with improved recovery from a stroke and therefore might bias the results away from the null.  I should also note that the proportion of college graduates (79.3%) is higher than I would expect in the general target population which might reduce the generlizability of the results.  This is likely a result of the recruitment procedure which would bias towards individuals interested in the intervention.
 
-Potentially in the measurements
+The authors used last-observation-carried-forward to replace missing data.  This is known to bias the results but is not guaranteed to bias in any one direction (although typically this biases away from the null).  They should have used multiple imputation or maximum likelihood estimators instead.
 
-A
+Finally, performing an intention-to-treat analysis could potentially bias the results towards the null since there were more drop-outs in the two intervention arms than in the usual care arm.  If the drop-outs were not related to the intervention then this would bias the results towards the null. If the drop-outs were related to the intervention then the intention-to-treat analysis would eliminate the bias described in the first paragraph of this question.
 
+12. The authors used a time-by-treatment interaction within an ANOVA to determine the association of treatment group with improvements in physical function and quality of life.  The authors report $\chi^2$ statistics associated with testing for a difference in fall rates between the 3 groups.
 
+13. As I mentioned earlier, due to the missing data, the authors should have used maximum likelihood based random-effects model to evaluate the treatment effect in order to avoid bias in the estimators.  I also would have preferred to see relative risks and confidence intervals for pair-wise comparisons of the three treatment groups rather then just the $\chi^2$ test.
+
+14. The authors claim that both Tai Chi and Silver Sneakers treatment groups experienced larger gains in aerobic endurance as compared with the control (5.9 more steps for Tai Chi, 16.3 more steps for Silver Sneakers, and 4.4 more steps for control).  Additionally, the authors claim that Tai Chi lead to fewer falls than the other treatment groups.
+
+15. The authors claim to have completed a sample size calculation and claim that the study may have been underpowered, although they do not provide any details about the sample size calculation.  It is difficult to determine whether the study was underpowered because I don't know if the observed effect sizes were clinically meaningful.  
