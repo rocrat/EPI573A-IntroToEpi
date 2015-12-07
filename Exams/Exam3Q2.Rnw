@@ -1,0 +1,9 @@
+\documentclass[12pt]{article}
+
+
+\usepackage[colorlinks=true, linkcolor=blue, citecolor=blue]{hyperref}
+\usepackage[backend=bibtex,style=authoryear,backref=true,hyperref=true]{biblatex}
+\addbibresource{epibib.bib}
+
+
+\end{document}

@@ -1,0 +1,34 @@
+---
+title: "LaRoche Exam 3 Answers"
+author: "Dominic LaRoche"
+date: "Sunday, December 06, 2015"
+output: word_document
+---
+
+#Part A
+
+##1 Glaucoma Screening
+a) 
+
+```{r parta, echo=FALSE, message=FALSE, results='asis'}
+library(pander)
+gl <- matrix(c(87,14,103,14,362,376), 3, 2)
+gl <- cbind(gl, apply(gl, 1, sum))
+rownames(gl) <- c("Test +", "Test -", "Total")
+colnames(gl) <- c("Glaucoma Pos", "Gloucoma Neg", "Total")
+pandoc.table(gl)
+```
+
+b) Sensitivity = 87/103x100 = `r round(87/103*100, 1)`
+
+c) Specificity = 362/376x100 = `r round(362/376*100, 1)`
+
+d) PPV = 87/101x100 = `r round(87/101*100, 1)`
+
+e) NPV = 362/376 = `r round(362/376*100, 1)`
+
+f) Yes, since this test has a high specificity and negative predictive value the risk of incorectly classifying a patient as having gloucoma is small.
+
+#What should holiday travelers know about flu risk?
+
+A large number of Americans will travel by air this holiday season.  
