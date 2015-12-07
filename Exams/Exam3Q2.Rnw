@@ -2,8 +2,11 @@
 
 
 \usepackage[colorlinks=true, linkcolor=blue, citecolor=blue]{hyperref}
-\usepackage[backend=bibtex,style=authoryear,backref=true,hyperref=true]{biblatex}
+\usepackage[backend=bibtex]{biblatex}
+\bibliographystyle{ama}
 \addbibresource{epibib.bib}
+\begin{document}
+As many Americans travel by air to visit family and friends during the holidays they may risk contracting the flu.  Travelling by air has been identified as a major vehicle for the spread of communicable diseases such as the influenza virus \cite{Mangili2015, Grais2004}.  Air travelers risk transmission of the flu from both fellow passengers and the airline crew \cite{Schwartz2012, Wagner2009}.  The risk of contracting the flu from a fellow passenger is moderated by several factors including the duration of the flight and the density of passengers \cite{Wagner2009}.  Modelling has suggested that longer flights and higher densities of passengers (i.e. economy vs first class) increases the risk of infection \cite{Wagner2009}. Travellers can reduce their risk of infection by avoiding hand contact with hard surfaces within the airplane cabin and increasing the ventilation rate \cite{Sze-To2014}.  Finally, sick travelers play an important role in the spread of influenza and airport screening provides only a partial solution \cite{Malone2009}.  To avoid contributing to the spread of influenza, potentially to friends and family, avoid traveling this holiday season if you are sick.
 
-
+\printbibliography
 \end{document}

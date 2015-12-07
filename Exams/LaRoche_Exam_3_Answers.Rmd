@@ -29,6 +29,33 @@ e) NPV = 362/376 = `r round(362/376*100, 1)`
 
 f) Yes, since this test has a high specificity and negative predictive value the risk of incorectly classifying a patient as having gloucoma is small.
 
-#What should holiday travelers know about flu risk?
+##What should holiday travelers know about flu risk?
 
-A large number of Americans will travel by air this holiday season.  
+As many Americans travel by air to visit family and friends during the holidays they may risk contracting the flu.  Travelling by air has been identified as a major vehicle for the spread of communicable diseases such as the influenza virus \cite{Mangili2015, Grais2004}.  Air travelers risk transmission of the flu from both fellow passengers and the airline crew \cite{Schwartz2012, Wagner2009}.  The risk of contracting the flu from a fellow passenger is moderated by several factors including the duration of the flight and the density of passengers \cite{Wagner2009}.  Modelling has suggested that longer flights and higher densities of passengers (i.e. economy vs first class) increases the risk of infection \cite{Wagner2009}. Travellers can reduce their risk of infection by avoiding hand contact with hard surfaces within the airplane cabin and increasing the ventilation rate \cite{Sze-To2014}.  Finally, sick travelers play an important role in the spread of influenza and airport screening provides only a partial solution \cite{Malone2009}.  To avoid contributing to the spread of influenza, potentially to friends and family, avoid traveling this holiday season if you are sick.
+
+#Part B
+
+##Scenario I
+1.) Is the consumption of 3 or more 12 Oz sodas per day in ages 10 - 20  positively associated with an increased odds of obesity by age 25 - 35?
+
+2.)
+
+```{r soda, echo=FALSE, results='asis'}
+soda <- matrix(c(20, 30, 50, 15, 35, 50), 3,2)
+soda <- cbind(soda, apply(soda, 1, sum))
+rownames(soda) <- c("Low Soda Consumption", "High Soda Consumption", "Total")
+colnames(soda) <- c("Normal Weight", "Obese", "Total")
+pandoc.table(soda)
+```
+
+3.) OR = (20x35)/(30x15) = `r round((20*35)/(30*15), 2)`
+
+4.) We find that individuals who consumed 3 or more 12 Oz sodas per day between the ages of 10and 20 were 1.56 times more likley to be obese by ages 25 - 30.
+
+5.) The strengths of this case control study are that BMI categories are clearly separated, reducing the risk of missclassification bias.  Cases and controls are selected from the same age cohort which is important because obesity is probably positively associated with age.
+
+6.) This study has several weaknesses.  The largest of which is likely that there does not seem to be any effort to control for confounders other than age.  High soda consumption may be associated with many other factors which may actually be causal for obesity such as a high-fat diet, high consumption of processed foods, lack of exercise, etc.  Moreover, the exposure is poorly defined and may be difficult for participants to recall.  For example, what if someone consumed no soda until they were 15 and then consumed 6 cans per day for 3 years and then quit again, how would this participant be classified?  
+
+##Scenario II
+
+
