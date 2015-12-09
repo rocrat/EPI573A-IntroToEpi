@@ -27,7 +27,7 @@ d) PPV = 87/101x100 = `r round(87/101*100, 1)`
 
 e) NPV = 362/376 = `r round(362/376*100, 1)`
 
-f) Yes, since this test has a high specificity and negative predictive value the risk of incorectly classifying a patient as having gloucoma is small.
+f) Yes, since this test has a high specificity and negative predictive value the risk of incorectly classifying a patient as having gloucoma is small.  However, we have no information on the costs of the test or the benenfits of early glaucoma detection which would both be important factors fo considering whether this test is a valuable screening tools.  We also don't know if the population sampled is representative of the general population and this would have to be assessed before assuming the observed sensitivity and specificity for the test would apply to the general population.
 
 ##What should holiday travelers know about flu risk?
 
@@ -57,5 +57,28 @@ pandoc.table(soda)
 6.) This study has several weaknesses.  The largest of which is likely that there does not seem to be any effort to control for confounders other than age.  High soda consumption may be associated with many other factors which may actually be causal for obesity such as a high-fat diet, high consumption of processed foods, lack of exercise, etc.  Moreover, the exposure is poorly defined and may be difficult for participants to recall.  For example, what if someone consumed no soda until they were 15 and then consumed 6 cans per day for 3 years and then quit again, how would this participant be classified?  
 
 ##Scenario II
+
+1.) Is increased consumption of soda significantly associated with an increased risk for obesity.
+
+2a.) I selected the National Health and Nutrition Examination Survey (NHANES).
+2b.) I selected this survey because it pulled information from a population of both men and women from all over the country and included, dietary, lifestyle, and health information.  I considered the Framingham Heart Study but it was very difficult to tell when dietary information was collected and the population is not as representative of the US population.  In order to determine the effects of dietary soda intake we need to be able to control for other, potentially confounding, effects such as lifestyle factors or other dietary trends and it appears NHANES has this information.  I also selected the NHANES cohort becuse they now have 16 years of data (annual surveys began in 1999), which should be a sufficient time frame to detect an association between soda and obesity.
+
+3.) In order to make the findings as generalizable as possible I will use very limited exclusion criteria.  To ensure adequate sampling time frame, the only inclusion criteria is enrollment in the NHANES cohort by the year 2000. Missing data from loss to follow up or death will be treated according to statistical best practices. 
+
+4.) Exclusion cirteria will be:
+  - Physical or mental disabilities
+  - Developmental disorders
+  - Having a BMI of 30 or greater at enrollment
+  - Other health impairments which limit normal everyday activities
+
+5.) I would want to include information on physical activity, the proportion of the diet coming from high-fat foods, and the amount of other sugary foods.  These are all factors hypothesized to contribute to obesity, which may also be correlated with soda consumption, and so must be included in the analysis in order to identify the relationship between soda and obesity.
+
+6.) Since many people are aware that drinking soda is generally unhealthy there may be a tendency for people to report drinking less soda than they actually do.  In fact, this phenomona may actually be greater in healthier individuals who are more aware and self-conscious of their health. This would lead to information bias and, if the assumption about healthy individuals were true, could bias the result away from the null.
+
+7.) The strengths of this cohort study are that participants are followed through time so that we can identify a temporal relationship between soda consumption and obesity.  Since the study draws from a representative sample of the US population, it should be generalizable to the healthy US population.
+
+8.) There may be many factors related to the onset of obesity, including genetic effects, that are not available for this cohort. Moreover, self-reported diet may have a substantial amount of measurement error among all participants and this could bias estimates towards the null. 
+
+
 
 
